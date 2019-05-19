@@ -1,0 +1,186 @@
+/** Green
+ **************************************************************** **/
+	::selection {
+		background: #8ab933;
+	}
+	::-moz-selection {
+		background: #8ab933; /* Firefox */
+	}
+	::-webkit-selection {
+		background: #8ab933; /* Safari */
+	}
+
+
+	a,
+	a:focus:not(.btn),
+	section.dark a,
+	#slidetop a:hover,
+	h1 > span,
+	h2 > span,
+	h3 > span,
+	h4 > span,
+	h5 > span,
+	h6 > span,
+	.pagination>li>a, 
+	.pagination>li>a:hover, 
+	.pagination>li>span,
+	#sidepanel ul li a[data-toggle="collapse"],
+	#sidepanel ul li a[data-toggle="collapse"]:hover,
+	#sidepanel ul li a:hover, 		
+	#menu_overlay_close:hover,
+	.owl-carousel.featured a.figure>span>i,
+	.owl-carousel.featured a:hover,
+	figure.zoom>a.lightbox:hover,
+	#portfolio h2>a:hover,
+	#portfolio h3>a:hover,
+	#portfolio h4>a:hover,
+	#portfolio h5>a:hover,
+	#portfolio h6>a:hover,
+	ul.widget-twitter li>small>a:hover,
+	.blog-post-item h2>a:hover,
+	.blog-post-item h3>a:hover,
+	.blog-post-item h4>a:hover,
+	.blog-post-item h5>a:hover,
+	.item-box .item-hover .inner .ico-rounded:hover>span,
+	ul.side-nav>li:hover>a,
+	ul.side-nav>li a:hover,
+	ul.side-nav>li.active>a { 
+		color: #8ab933; 
+	}
+	
+	
+	div.alert.alert-primary,
+	.datepicker table tr td.active.active,
+	.owl-theme .owl-controls .owl-page span,
+	.open>.dropdown-toggle.btn-primary,
+	.btn-primary,
+	.btn-primary:hover,
+	.btn-primary:active,
+	.btn-primary:focus,
+	.pagination>.active>a,
+	.pagination>.active>a:hover,
+	#header li.quick-cart .quick-cart-box a.btn,
+	#header li.quick-cart .quick-cart-box a.btn:hover,
+	.tp-bullets.simplebullets.round .bullet.selected,
+	#progressBar #bar,								
+	#page-menu,
+	#page-menu ul {
+		background-color:#8ab933;
+	}
+	
+	/* !important required */
+	
+	div.side-nav ul>li:hover>a, 
+	div.side-nav ul>li.active>a {
+		color:#8ab933 !important;
+	}
+
+	
+	a.thumbnail.active,
+	a.thumbnail:hover,
+	.btn-primary,
+	.btn-primary:hover,
+	.btn-primary:active,
+	.btn-primary:focus {
+		border-color:#8ab933;
+	}
+
+	.open>.dropdown-toggle.btn-primary,
+	.btn-primary,
+	.btn-primary:active,
+	.btn-primary:focus,
+	.btn-primary:hover
+	.pagination>.active>a,
+	.pagination>.active>a:hover {
+		border-color: #8ab933;
+	}
+
+	#topNav ul.dropdown-menu { /* submenu border top color */
+		border-top-color:#8ab933;
+	}
+	section.featured-grid div.row>div .ribbon:before,
+	.modal-content {
+		border-top-color:#8ab933;
+	}
+
+	#topNav ul.dropdown-menu {
+		border-color: #8ab933 #fff #fff;
+	}
+	#topNav div.submenu-dark ul.dropdown-menu {
+		border-color: #8ab933 #3F3F3F #3F3F3F;
+	}
+	#topMain li.search .search-box {
+		border-top: #8ab933 2px solid;
+	}
+
+
+/**	[Shortcode] Buttons
+*************************************************** **/
+section.dark .btn-default:hover {
+	color: #8ab933;
+	background-color:rgba(0,0,0,0.3);
+}
+
+.box-icon a.box-icon-title:hover>h2 {
+	color:#8ab933;
+}
+.box-icon a.box-icon-title:hover>i {
+	color:#fff;
+	background-color:#8ab933;
+}
+
+.box-flip .box2 {
+	color:#fff;
+	background-color:#8ab933;
+}
+
+.box-flip .box2 h1,
+.box-flip .box2 h2,
+.box-flip .box2 h3,
+.box-flip .box2 h4,
+.box-flip .box2 h5,
+.box-flip .box2 h6 {
+	color:#fff;
+}
+
+.box-static.box-border-top {
+	border-color:#8ab933;
+}
+
+/**	[Shortcode] Paginations
+*************************************************** **/
+section.dark .pagination > li.active>a,
+.pagination > li.active>a {
+	border-color:#8ab933;
+	background-color:#8ab933;
+}
+
+/** Sky Forms
+ **************************************************************** **/
+/**/
+/* normal state */
+/**/
+.sky-form .toggle i:before {
+	background-color: #8ab933;	
+}
+.sky-form .button {
+	background-color: #8ab933;
+}
+
+/**/
+/* checked state */
+/**/
+.sky-form .radio input + i:after {
+	background-color: #8ab933;	
+}
+.sky-form .checkbox input + i:after {
+	color: #8ab933;
+}
+.sky-form .radio input:checked + i,
+.sky-form .checkbox input:checked + i,
+.sky-form .toggle input:checked + i {
+	border-color: #8ab933;	
+}
+.sky-form .rating input:checked ~ label {
+	color: #8ab933;	
+}

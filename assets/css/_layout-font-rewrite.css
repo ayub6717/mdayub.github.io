@@ -1,0 +1,29 @@
+ .countdown, h1, h2, h3, h4, h5, h6 {
+  font-family: 'Raleway', 'Open Sans', Arial, Helvetica, sans-serif;
+}
+
+.datepicker.dropdown-menu {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+ .mfp-close {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+body {
+  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+}
+
+small {
+  font-family: 'Lato', sans-serif;
+}
+
+ .font-lato {
+  font-family: 'Lato', Arial, Helvetica, sans-serif !important;
+}
+
+ .blog-post-item h2 {
+  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+}
